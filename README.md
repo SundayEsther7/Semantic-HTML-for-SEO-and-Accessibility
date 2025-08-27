@@ -1,9 +1,12 @@
 # Semantic-HTML-for-SEO-and-Accessibility
 How to implement semantic HTML effectively, targeting web developers and technical professionals
 
-This repository contains simple examples that demonstrate the difference between **non-semantic** and **semantic** HTML.  
+This repository contains simple examples demonstrating the difference between **non-semantic** and **semantic** HTML.  
 It was created to support my blog post:  
-👉 [Why Semantic HTML Matters]([https://dev.to/YOUR-USERNAME/YOUR-POST-SLUG](https://dev.to/esthersunday/semantic-html-for-seo-and-accessibility-2akd-temp-slug-805231?preview=f28984b4ffe7b56d329bd1a6f88fd6c61d214777d4e571c9758f88b4dc65fd4f5f502e5c1a104b7cb8880a133d55083865437a11ec235b5c20649a0d))
+👉 [Why Semantic HTML Matters]## 📎 Blog Versions
+
+- ✍️ Read this article on [Dev.to](https://dev.to/esthersunday/semantic-html-for-seo-and-accessibility-27p0)  
+- ✍️ Read this article on [Hashnode](https://sundayesther.hashnode.dev/semantic-html-for-seo-and-accessibility)
 
 ---
 
@@ -25,5 +28,11 @@ It was created to support my blog post:
 
 ## 📖 Learn More
 Read the full blog post here:  
-👉 [Why Semantic HTML Matters]([https://dev.to/YOUR-USERNAME/YOUR-POST-SLUG](https://dev.to/esthersunday/semantic-html-for-seo-and-accessibility-2akd-temp-slug-805231?preview=f28984b4ffe7b56d329bd1a6f88fd6c61d214777d4e571c9758f88b4dc65fd4f5f502e5c1a104b7cb8880a133d55083865437a11ec235b5c20649a0d))
+👉 ## 📎 Blog Versions
+
+### 🔗 Quick Links
+
+[Dev.to](https://dev.to/esthersunday/semantic-html-for-seo-and-accessibility-27p0)  
+[Hashnode](https://sundayesther.hashnode.dev/semantic-html-for-seo-and-accessibility)
+
 
